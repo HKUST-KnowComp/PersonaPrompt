@@ -1,0 +1,2 @@
+ {"soft": None, "duplicate": 20} Persona Knowledge:{"meta": "Persona_Knowledge", "shortenable": True} Context:{"meta":'context'} Argument:{"meta":'argument2'}. The impact is {"mask"}
+ {"soft": None, "duplicate": 20} Context:{"meta":'context'} Argument:{"meta":'argument2'}. The impact is {"mask"}
